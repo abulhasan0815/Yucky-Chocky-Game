@@ -15,4 +15,4 @@ $ java Start_Game
 ```
 
 #
-<img src="" align="center"> 
+<p align="center"> <img src="https://github.com/abulhasan0815/Yucky-Chocky-Game/blob/main/view.png"> </p>
